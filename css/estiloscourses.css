@@ -1,0 +1,43 @@
+.input
+{
+	width: 20em;
+	height: 40px;
+	color: #215978;
+	font-size: 1.3em;
+	text-align: center;
+}
+form #btnaceptar
+{
+	text-align: center;
+	padding: 0.83em 1.5em;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+}
+form .bordes 
+{
+	border: 1px solid #215978;
+	padding: 2em;
+	margin: 1em auto;
+	width: 38%;
+}
+
+@media screen and (max-width:400px){
+.input
+{
+	width: 15.5em;
+
+}
+form .bordes input 
+{
+	width: 18em;
+	margin: 1em;
+	display: block;
+	font-size: 1em;
+}
+form .bordes  
+{
+	width: 21em;
+	display: block;
+	padding: 1em;
+}
+}

@@ -1,0 +1,50 @@
+form
+{
+	text-align: center;
+}
+img
+{
+	width: 130px;
+	height: 120px;
+	border-radius: 50%;
+}
+h2
+{
+	text-transform: uppercase;
+	color: #2196F3;
+}
+.inputs
+{
+	width: 20em;
+	height: 3.2em;
+	border: 1px solid #2196F3;
+}
+.margin
+{
+	margin: 2em 2em;
+}
+.margin input
+{
+	width: 10em;
+	height: 3.2em;
+}
+.alert h5
+{
+	text-transform: uppercase;
+	color: #D50000;
+}
+.combobox
+{
+	background-color:#1565C0;
+	font-size: 1.1em;
+	color: #ffffff;
+	font-family: 'Montserrat Alternates', sans-serif;
+	padding: 1em;
+	cursor: pointer;
+}
+.opc
+{
+	margin: 0 0.3em;
+	color: #2196F3;
+	font-size: 1.3em;
+}
